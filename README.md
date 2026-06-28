@@ -43,6 +43,6 @@ We also provide a cross‑platform desktop version that bundles the same interfa
 
 API keys are encrypted and saved locally. Nothing is ever transmitted to our servers.
 
-## License
+📱 Contact Me on WeChat :zhengjinfa33
 
-[MIT License](LICENSE) – Free for personal and commercial use.
+📧 Email:zhengjinfa33@163.com
