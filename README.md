@@ -31,6 +31,10 @@ No server, no build step – it just works.
 ## Desktop App (Electron)
 
 We also provide a cross‑platform desktop version that bundles the same interface into a standalone `.exe` / `.app` / `.AppImage`. Check the [Releases](https://github.com/yourusername/ppap-ai-auditor/releases) page.
+<img width="1207" height="933" alt="0be28aff5e45bb2710bc9481016091d4" src="https://github.com/user-attachments/assets/c3681ef1-23d8-4411-a333-19728dce8413" />
+<img width="1214" height="863" alt="34f790ee9068945282231e54386f215e" src="https://github.com/user-attachments/assets/0ba20962-21b2-4014-a5c7-2d346db27c7a" />
+
+
 
 ## Supported AI Models
 
